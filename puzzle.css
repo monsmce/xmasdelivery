@@ -26,3 +26,8 @@ body {
     height: 138px; /*Each puzzle piece is 138 pixels high*/
     border: 1px solid #63abe3; /*Each puzzle piece has a 1 pixel solid border with color #63abe3*/
 }
+
+img[src$="IMG/image_part_003.jpg"] 
+{
+    opacity: 0;
+}
